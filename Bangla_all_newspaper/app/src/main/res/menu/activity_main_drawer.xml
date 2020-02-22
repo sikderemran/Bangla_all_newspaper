@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/banglaPaper"
+            android:icon="@drawable/ic_action_correct"
+            android:title="@string/name1"/>
+        <item
+            android:id="@+id/banglaEpaper"
+            android:icon="@drawable/ic_action_correct"
+            android:title="@string/name3" />
+        <item
+            android:id="@+id/banglajob"
+            android:icon="@drawable/ic_action_correct"
+            android:title="@string/name4" />
+        <item
+            android:id="@+id/playnewS"
+            android:icon="@drawable/ic_action_correct"
+            android:title="@string/name2" />
+        <item
+            android:id="@+id/rateus"
+            android:icon="@drawable/ic_action_star"
+            android:title="@string/name5" />
+        <item
+            android:id="@+id/rateus"
+            android:icon="@drawable/ic_action_star"
+            android:title="@string/name6" />
+
+    </group>
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bangla all newspaper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="bd">Bangla newspapers</string>
+    <string name="ads4">ca-app-pub-5061141653410008/6742738066</string>
+    <string name="name1">বাংলা পত্রিকা</string>
+    <string name="name2">খেলার খবর</string>
+    <string name="name3">বাংলা ই-পত্রিকা</string>
+    <string name="name4">চাকরির পত্রিকা</string>
+    <string name="name5">5 Star রেটিং দিন</string>
+    <string name="name6">Developed by মো.ইমরান সিকদার</string>
+</resources>
